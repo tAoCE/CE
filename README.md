@@ -16,9 +16,8 @@ This repository should be updated regularly so as to be kept up to date with the
 ## Organization
 
 This repository is organized in the following structure:
-
-  A directory for every chapter  
-    A README.md containing the table of contents  
-    A subdirectory for every sub-chapter with sub-chapters  
+- A directory for every chapter  
+  - A README.md containing the table of contents  
+  - A subdirectory for every sub-chapter with sub-chapters  
 
 This is meant to keep this repository clean and intuitive.
