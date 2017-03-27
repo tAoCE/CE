@@ -1,5 +1,5 @@
 # CE
-The Code of Ethics
+The Code of Ethics for the Assciation of Computer Science Ethics
 
 ## Forward
 
