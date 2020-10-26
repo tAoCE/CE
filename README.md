@@ -8,25 +8,25 @@ This document is born out of a university classroom teaching professional practi
 ## Table of Contents
 1. Introduction
   - Mission Statement
+  - Vision Statement
   - Target Audience
   - Interpretation (Organization and Important Definitions)
 2. Core Values
   1. Adherence to the core values
-    - Honesty
-    - Respect
-    - Security
-    - Responsibility
-    - Excellence
-    - Compassion
+      - Honesty
+      - Compassion
+      - Respect
+      - Responsibility
+      - Excellence
   2. Issues with repect to the core values
-    - Plaigiarism
-    - Conflicts of Interest
-      - Definition
-      - Moderation
-      - Computer Scientists as Politicians
-      - Computer Scientists as Advocates
-    - Termination of services
-    - Disclosure and Privacy
+      - Plaigiarism
+      - Conflicts of Interest
+        - Definition
+        - Moderation
+        - Computer Scientists as Politicians
+        - Computer Scientists as Advocates
+      - Termination of services
+      - Disclosure and Privacy
 4. Marketing services as a Computer Scientist
 5. Public appearance and statements
 6. Case Studies on Questionable Conduct
@@ -43,8 +43,7 @@ This repository should be updated regularly so as to be kept up to date with the
 ## Organization
 
 This repository is organized in the following structure:
-- A directory for every chapter  
-  - A README.md containing the table of contents  
-  - A subdirectory for every sub-chapter with sub-chapters  
+  - A directory for every item in the table of contents with sub-items
+  - A markdown file for each item in the table of contents without sub-items
 
 This is meant to keep this repository clean and intuitive.
